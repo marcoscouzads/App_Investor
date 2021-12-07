@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marcos_Cassiano_DR1_TP3</string>
+    <string name="titleapp">Analisador de perfil de Investidores</string>
+    <string name="credios">Crédito para o grupo Paulista: https://www.bancopaulista.com.br/Arquivos/QuestionarioAPI.pdf</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
